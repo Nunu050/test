@@ -1,0 +1,6 @@
+@PutApi_HostAddress = http://localhost:5214
+
+GET {{PutApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
