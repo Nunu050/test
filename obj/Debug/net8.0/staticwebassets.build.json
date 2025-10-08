@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "NbR3EijZSDlNEdmY1Afw31RxRj6xdv5HlQprHL0kW2s=",
+  "Hash": "OrBlzFLsQk1RnaIrsPXQ4gkuDXuHlnZuzsR2ss2SOsc=",
   "Source": "PutApi",
   "BasePath": "_content/PutApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

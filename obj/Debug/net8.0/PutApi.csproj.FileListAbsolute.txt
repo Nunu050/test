@@ -1,6 +1,5 @@
 C:\PutApi\bin\Debug\net8.0\appsettings.Development.json
 C:\PutApi\bin\Debug\net8.0\appsettings.json
-C:\PutApi\bin\Debug\net8.0\PutApi.staticwebassets.endpoints.json
 C:\PutApi\bin\Debug\net8.0\PutApi.exe
 C:\PutApi\bin\Debug\net8.0\PutApi.deps.json
 C:\PutApi\bin\Debug\net8.0\PutApi.runtimeconfig.json
@@ -124,16 +123,15 @@ C:\PutApi\obj\Debug\net8.0\PutApi.AssemblyInfo.cs
 C:\PutApi\obj\Debug\net8.0\PutApi.csproj.CoreCompileInputs.cache
 C:\PutApi\obj\Debug\net8.0\PutApi.MvcApplicationPartsAssemblyInfo.cs
 C:\PutApi\obj\Debug\net8.0\PutApi.MvcApplicationPartsAssemblyInfo.cache
-C:\PutApi\obj\Debug\net8.0\scopedcss\bundle\PutApi.styles.css
+C:\PutApi\obj\Debug\net8.0\PutApi.sourcelink.json
 C:\PutApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\PutApi\obj\Debug\net8.0\staticwebassets.development.json
-C:\PutApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\PutApi\obj\Debug\net8.0\staticwebassets\msbuild.PutApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\PutApi\obj\Debug\net8.0\staticwebassets\msbuild.PutApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\PutApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PutApi.props
 C:\PutApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PutApi.props
 C:\PutApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PutApi.props
 C:\PutApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\PutApi\obj\Debug\net8.0\scopedcss\bundle\PutApi.styles.css
 C:\PutApi\obj\Debug\net8.0\PutApi.csproj.Up2Date
 C:\PutApi\obj\Debug\net8.0\PutApi.dll
 C:\PutApi\obj\Debug\net8.0\refint\PutApi.dll

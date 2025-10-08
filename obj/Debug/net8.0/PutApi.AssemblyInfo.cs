@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PutApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+241ff52a7491b904bd1e59f828067d6f36f28db8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PutApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PutApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
