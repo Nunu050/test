@@ -1,5 +1,3 @@
-using PutApi.Data;
-using Microsoft.EntityFrameworkCore;
 using AutoMapper;
 using PutApi.Mappings;
 using PutApi.DTOs;
@@ -15,8 +13,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 // Add DbContext
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 var app = builder.Build();
 
