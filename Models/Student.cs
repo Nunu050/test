@@ -8,6 +8,6 @@ namespace PutApi.Models
         public DateTime DateOfBirth { get; set; }   // Ngày sinh
 
         public int ClassId { get; set; }   // Khóa ngoại
-        public Class Class { get; set; }
+
     }
 }
